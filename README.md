@@ -1,5 +1,5 @@
 # JumpTo
-A simple web redirection tool with whitelist and mapping control.
+A simple web redirection tool with allowlist and mapping control.
 ## Purpose
 
 ## More
